@@ -1,3 +1,6 @@
+# Basic StopWatch using ReactJS 
+    This app was build using react hooks for managing states
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
